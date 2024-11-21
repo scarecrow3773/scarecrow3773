@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @scarecrow3773 aka Heiko
 - 👀 I’m interested in Industry 4.0 (RAMI 4.0 as well as SGAM), Digitalization, Automation, Robotics and Renewable Energy Systems
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... "nah... you can't"
 
 <!---
